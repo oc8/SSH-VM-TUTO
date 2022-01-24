@@ -33,7 +33,7 @@
 ## Connecter un terminal    <br />
 * 
   ```
-  sudo ssh -p 3022 {loginVM}@127.0.0.1
+  ssh -p 3022 {loginVM}@127.0.0.1
 <br />
 
 ## Connecter VS code    <br />
